@@ -1,3 +1,6 @@
 [submodule "Billed-app-FR-Back"]
 	path = Billed-app-FR-Back
 	url = https://github.com/stoyb/Billed-app-FR-Back.git
+[submodule "Billed-app-FR-Front"]
+	path = Billed-app-FR-Front
+	url = https://github.com/stoyb/Billed-app-FR-Front.git
